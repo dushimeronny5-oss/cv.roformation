@@ -1,7 +1,7 @@
 /**
  * CV EN LIGNE - RONNY JAS
- * Style Nike : Noir & Bleu Électrique
- * Logique Interactive : Filtres, Mode Édition, Copie Rapide & Export PDF
+ * Style Nike Luxury : Noir & Or Métallique
+ * Logique Interactive : Filtres, Mode Édition & Copie Rapide
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -142,7 +142,7 @@ function toggleLiveEdit(enable) {
   editableElements.forEach(el => {
     el.contentEditable = isEditMode ? 'true' : 'false';
     if (isEditMode) {
-      el.style.outline = '1px dashed #38bdf8';
+      el.style.outline = '1px dashed #d4af37';
       el.style.borderRadius = '4px';
       el.style.padding = '2px 4px';
     } else {

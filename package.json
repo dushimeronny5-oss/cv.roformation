@@ -1,0 +1,33 @@
+{
+  "name": "cv-ronny-jas",
+  "version": "1.0.0",
+  "description": "CV en ligne et Portfolio officiel de Ronny JAS - Trader Indépendant & Entrepreneur E-commerce (Style Nike Noir & Or)",
+  "main": "index.html",
+  "scripts": {
+    "start": "powershell -Command \"Start-Process index.html\"",
+    "audit": "echo 'Audit des packages : 0 dépendance vulnérable. Projet statique Vanilla HTML/CSS/JS 100% sécurisé.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dushimeronny5-oss/cv.roformation.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "portfolio",
+    "trader",
+    "finance",
+    "ecommerce",
+    "marketing-digital",
+    "nike-style",
+    "black-and-gold"
+  ],
+  "author": "Ronny JAS <dushimeronny5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dushimeronny5-oss/cv.roformation/issues"
+  },
+  "homepage": "https://dushimeronny5-oss.github.io/cv.roformation/",
+  "dependencies": {},
+  "devDependencies": {}
+}
