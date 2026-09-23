@@ -30,8 +30,7 @@ Site web de présentation professionnelle et CV en ligne de **Ronny JAS**, conç
 2. **Piliers Stratégiques (01, 02, 03)** : Présentation synthétique des domaines d'expertise.
 3. **Filtres de Compétences Interactifs** : Tri par domaine (*Trading*, *E-commerce*, *Marketing Digital*, *Mindset*).
 4. **Mode Édition en Direct (✏️)** : Possibilité de modifier les textes et chiffres directement à l'écran et de les enregistrer dans le navigateur.
-5. **Export PDF Haute Définition** : Rendu A4 propre sans éléments superflus prêt à imprimer (`Ctrl + P` ou bouton dédié).
-6. **Bouton Copie Email Rapide** : Copie immédiate de `dushimeronny5@gmail.com`.
+5. **Bouton Copie Email Rapide** : Copie immédiate de `dushimeronny5@gmail.com`.
 
 ---
 
