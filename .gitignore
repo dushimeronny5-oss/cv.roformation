@@ -1,0 +1,10 @@
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Outils
+.vscode/
+.idea/
+*.log
+gemini.md
